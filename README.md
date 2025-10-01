@@ -18,7 +18,7 @@ This project demonstrates a full ML workflow: data exploration and preprocessing
 - Useful for product demos, academic projects, and learning ML deployment.
 - The pipeline (from EDA to deployment) is a repeatable template for similar regression problems.
 
-**Quick stats (example)**  
+**Quick stats**  
 - Model: RandomForest / XGBoost (trained on historic rides)  
 - Example performance: RMSE = `1.63`, R² = `0.969`  
 
