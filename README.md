@@ -66,6 +66,6 @@ The dataset used for training and evaluation contains historical ride informatio
 - Fill in ride details and click Predict Price to see the predicted fare.
 - Ensure the backend is running for predictions to work.
   
-<a href="https://github.com/Surajsuri0/India-Election-Results-Analysis-PowerBI/tree/main/Screenshots">Demo</a>
+<a href="https://github.com/Surajsuri0/cab_price_prediction_ML/blob/main/Screenshots/Cab%20Price%20Prediction.mp4">Demo Video</a>
 
 
