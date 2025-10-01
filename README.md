@@ -22,6 +22,7 @@ This project demonstrates a full ML workflow: data exploration and preprocessing
 - Model: RandomForest / XGBoost (trained on historic rides)  
 - Example performance: RMSE = `1.63`, R² = `0.969`  
 
+---
 ## Dataset
 
 The dataset used for training and evaluation contains historical ride information (Uber & Lyft) with features such as:
@@ -36,8 +37,6 @@ The dataset used for training and evaluation contains historical ride informatio
 **Download Links:**
 - 📂 [Raw Data (CSV)](https://drive.google.com/file/d/1QqiydMw3WgQwM4TW102yV6DIzsj8nWNL/view?usp=sharing)  
 - 📂 [Trained Model (`cab_price_model.pkl`)](https://drive.google.com/file/d/1abw48Qjhx4enzQjalfk5IoOuW6Lkxa7l/view?usp=sharing)
-
-> ⚠️ Note: The trained model file is large (~85MB). It is hosted on Google Drive since GitHub restricts files >25MB.
 
 
 
