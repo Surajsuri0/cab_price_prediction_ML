@@ -70,7 +70,6 @@ The dataset used for training and evaluation contains historical ride informatio
 
 ---
 ## Screenshots
-![Input Cab Price Prediction](https://github.com/user-attachments/assets/9b139e5e-fd7d-476d-8faf-40afcfe93896)
 <img width="1038" height="614" alt="Predicted Cab Price" src="https://github.com/user-attachments/assets/5045c4d4-5e0c-4402-996f-550bbf608591" />
 
 
