@@ -74,5 +74,18 @@ The dataset used for training and evaluation contains historical ride informatio
 <img width="1038" height="614" alt="Predicted Cab Price" src="https://github.com/user-attachments/assets/5045c4d4-5e0c-4402-996f-550bbf608591" />
 
 ---
+## Questions (KPIs)
+- How accurate are the predicted fares compared to actual fares?
+- What is the model’s error distribution for different cab types?
+- Does the model maintain accuracy during peak hours versus non-peak hours?
+- How does surge pricing affect prediction accuracy?
+- What percentage of predictions fall within an acceptable error margin (e.g., ±$1)?
+- How fast does the web application return a prediction?
+- Are users entering all necessary inputs correctly, or are there frequent input errors?
+- How many users interact with the prediction tool per day/week?
+- Do users revisit the app after their first prediction?
+- Are users satisfied with the predicted prices and the clarity of the interface?
+
+---
 ## Final Conclusion
 This project demonstrates a complete end-to-end workflow for predicting cab prices using machine learning. From data preprocessing and feature engineering to model training, evaluation, and deployment through a Flask web application, it showcases how predictive models can be integrated into an interactive and user-friendly interface. The app allows users to quickly estimate ride fares based on distance, cab type, source/destination, timestamp, and surge multiplier. This repository serves as both a practical tool for fare estimation and a learning resource for building, deploying, and sharing machine learning projects. With organized code, clear documentation, and accessible model files, it provides a professional template for similar regression-based prediction projects.
