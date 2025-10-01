@@ -37,7 +37,9 @@ The dataset used for training and evaluation contains historical ride informatio
 **Download Links:**
 - 📂 [Raw Data (CSV)](https://drive.google.com/file/d/1QqiydMw3WgQwM4TW102yV6DIzsj8nWNL/view?usp=sharing)  
 - 📂 [Trained Model (`cab_price_model.pkl`)](https://drive.google.com/file/d/1abw48Qjhx4enzQjalfk5IoOuW6Lkxa7l/view?usp=sharing)
+- 📂 [Predicted Price (CSV)](https://drive.google.com/file/d/1wY2eSUa3pdJPbFn6RETxnWPiYI_4weqj/view?usp=sharing)
 
+---
 
 
 
