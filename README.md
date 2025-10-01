@@ -46,21 +46,21 @@ The dataset used for training and evaluation contains historical ride informatio
 ## How to Run the Project
 
 **Step-by-step instructions:**
-1. Download Project Files :
+**Download Project Files :**
 - Download the backend, frontend, notebook, and other files from this repository.
 - Download the trained model (cab_price_model.pkl)
 - Download the raw dataset
 
-2. Ensure Python 3.8+ is installed on your system.
+**Ensure Python 3.8+ is installed on your system.**
 
-3. Install Required Libraries :
+**Install Required Libraries :**
 - Open a terminal in the project folder and run: pip install -r requirements.txt
 
-4. Run the Backend (Flask API)
+**Run the Backend (Flask API) :**
 - Start the Flask server: python main.py
 - The app will run locally at: http://127.0.0.1:5000/
 
-5. Open the Frontend :
+**Open the Frontend :**
 - Open templates/index.html in a browser.
 - Fill in ride details and click Predict Price to see the predicted fare.
 - Ensure the backend is running for predictions to work.
