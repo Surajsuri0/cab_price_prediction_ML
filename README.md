@@ -68,4 +68,10 @@ The dataset used for training and evaluation contains historical ride informatio
   
 <a href="https://github.com/Surajsuri0/cab_price_prediction_ML/blob/main/Screenshots/Cab%20Price%20Prediction.mp4">Demo Video</a>
 
+---
+## Screenshots
+![Input Cab Price Prediction](https://github.com/user-attachments/assets/9b139e5e-fd7d-476d-8faf-40afcfe93896)
+<img width="1038" height="614" alt="Predicted Cab Price" src="https://github.com/user-attachments/assets/5045c4d4-5e0c-4402-996f-550bbf608591" />
+
+
 
