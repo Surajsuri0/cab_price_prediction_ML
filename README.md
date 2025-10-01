@@ -10,7 +10,7 @@ This project demonstrates a full ML workflow: data exploration and preprocessing
 - Predicts ride price given distance, cab type, source/destination, timestamp and surge.
 - Simple, responsive HTML frontend (Flask `templates/index.html`).
 - Model saved as `cab_price_model.pkl` (downloadable from the release / Drive link).
-- Example notebook with EDA and model training (`notebook.ipynb`).
+- Example notebook with EDA and model training (`Machine Learning Project.ipynb`).
 - Lightweight backend ready for local hosting or simple deployment (ngrok / cloud).
 
 **Why this is useful**
