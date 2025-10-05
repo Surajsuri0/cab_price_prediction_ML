@@ -21,7 +21,7 @@ This project demonstrates a full ML workflow: data exploration and preprocessing
 **Quick stats**  
 - Model: RandomForest / XGBoost (trained on historic rides)  
 - Example performance: RMSE = `1.63`, R² = `0.969`
-- This model Gives `97%` Accuracy  
+- This model has `97%` Accuracy  
 
 ---
 ## Dataset
