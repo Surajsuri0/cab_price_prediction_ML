@@ -20,7 +20,8 @@ This project demonstrates a full ML workflow: data exploration and preprocessing
 
 **Quick stats**  
 - Model: RandomForest / XGBoost (trained on historic rides)  
-- Example performance: RMSE = `1.63`, R² = `0.969`  
+- Example performance: RMSE = `1.63`, R² = `0.969`
+- This model Gives `97%` Accuracy  
 
 ---
 ## Dataset
@@ -58,7 +59,7 @@ The dataset used for training and evaluation contains historical ride informatio
 - Open a terminal in the project folder and run : pip install -r requirements.txt
 
 **4. Run the Backend (Flask API) :**
-- Start the Flask server : python main.py
+- Start the Flask server : python app.py
 - The app will run locally at : http://127.0.0.1:5000/
 
 **5. Open the Frontend :**
